@@ -1,5 +1,5 @@
 # SIKE Horizontal power-analysis attack
-**TCHES** Submission
+**COSADE 2021** Submission
 
 
 This library is built upon the official SIKE implementation (see below).
